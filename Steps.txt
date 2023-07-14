@@ -1,0 +1,13 @@
+1. Read the train Dataset.
+2. Check missing values in df
+3. Seperate X and Y (Drop statistically insignificant)
+4. Cat Con Seperation
+5. Create Sklearn pipeline for feature selection (Ordinal)
+6. Use Mutual Info Scores (Decide wheter you want to drop columns)
+7. Create selected columns dataframe 
+8. Build the final sklearn pipeline (Onehotencoder)
+9. Algo Evaluation (Select Best model)
+10. ROC AUC curve
+11. Predict the testing file (Id, Machine Failure, Prob)
+12. Check how many machines failed in testing file. 
+13. Email me ipynb file and predictions.csv at utkarsh.etlhive@gmail.com
